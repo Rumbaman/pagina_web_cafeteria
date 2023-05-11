@@ -1,4 +1,5 @@
 * {
+    padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
@@ -7,11 +8,11 @@ header {
     background-color: crimson;
 }
 
+li {
+    color: #444;
+}
+
 footer {
     color: crimson;
     background-color: black;
-}
-
-li {
-    color: #444;
 }
